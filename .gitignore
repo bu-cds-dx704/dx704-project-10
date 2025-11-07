@@ -1,0 +1,6 @@
+
+# large artifacts (do not commit)
+paragraph-vectors.tsv.gz
+text_to_vec.joblib
+*.joblib
+*.tsv.gz

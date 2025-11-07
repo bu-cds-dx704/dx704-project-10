@@ -1,0 +1,4 @@
+section	description	links_or_notes
+discussions	none	
+extra_libraries	none	Only pandas, numpy, scikit-learn (covered in module content).
+generative_ai	Used ChatGPT to draft/helper code for Parts 2–6 (parsing, vectorization, NN matching). I reviewed, edited, and verified all outputs.	Add transcript link(s) if required by policy.
